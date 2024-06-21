@@ -1,0 +1,98 @@
+/* YOUR STYLES HERE */
+main{
+    font-size: 100px;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    margin-top: 100px;
+    text-decoration-color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: url("images/R.f8e4b401e476887f0a43ca52ea405c35.jpeg");
+    text-align: center;
+    background-size:cover;
+} 
+
+
+#menu2{
+    padding: 5px 10px;
+    margin: 14px 14px;
+ }
+
+ .menu2-item {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 26px;
+    color: white;
+    text-decoration:none; 
+    align-items: left;
+    padding-left: 50px;
+}
+
+.menu2-item:hover {
+    text-decoration: underline;
+}
+
+#header{
+    font-style: italic;
+    font-size: x-large;
+    color: white;
+}
+
+.image1{
+    height: 120px;
+    width: 120px;
+    border-radius: 120px;
+}
+
+.image2{
+    height: 120px;
+    width: 120px;
+    border-radius: 120px;
+}
+
+.image3{
+    height: 120px;
+    width: 120px;
+    border-radius: 120px;
+}
+
+#search2{
+    text-align: center;
+}
+
+#search-bar2{
+    height: 34px;
+    font-size: 17px;
+    border-radius: 17px;
+
+    border: 1px solid #C2C2C2;
+    width: 90%;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 30px;
+    max-width: 500px;
+    background-color: white;
+    text-decoration-color: black; 
+}
+footer{
+    color:white;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 0px 20px 0px 20px;
+    margin-top: 190px;
+    font-size: 29px;
+}
+#recipes{
+    color: white;
+    padding: 0px 150px;
+}
+.recipe{
+    text-decoration: none;
+    
+}
+
+.recipe:hover{
+    text-decoration: underline;
+}
